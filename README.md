@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandra Jimenez Avalos</h1>
 <h3 align="center">I´m Android Developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandraja&label=Profile%20views&color=0e75b6&style=flat" alt="alejandraja" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandraja" alt="alejandraja" /></a> </p>
-
-- 🔭 I’m currently working on [Mechanical exoskeleton prototype](https://github.com/alejandraJA/Mechanical-exoskeleton-prototype/tree/maintenance)
+- 🔭 I’m currently working on [Mechanical exoskeleton prototype](https://github.com/alejandraJA/Mechanical-exoskeleton-prototype/tree/maintenance) [Invoice for contratistas](https://github.com/alejandraJA/invoice_contratistas)
 
 - 🌱 I’m currently learning **.Net, Compose for Android, Material 3, Fluter, React Native and Spring Boot**
 
