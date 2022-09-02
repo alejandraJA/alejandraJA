@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mechanical exoskeleton prototype](https://github.com/alejandraJA/Mechanical-exoskeleton-prototype/tree/maintenance) [Invoice for contratistas](https://github.com/alejandraJA/invoice_contratistas)
 
-- 🌱 I’m currently learning **.Net, Compose for Android, Material 3, Fluter, React Native and Spring Boot**
+- 🌱 I’m currently learning **.Net, Compose for Android, Material 3, Spring Boot, Veu, Vuetify, and Node js**
 
 - 👯 I’m looking to collaborate on [CHAPAS DE SEGURIDAD TOKEN](https://www.sarmexico.com/productos/)
 
