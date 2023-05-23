@@ -1,43 +1,71 @@
-<h1 align="center">Hi👋</h1>
-<h3 align="center">I´m Android Developer from México</h3>
+# AlejandraJA
 
-- 🔭 I’m currently working
-  on [Mechanical exoskeleton prototype](https://github.com/alejandraJA/Mechanical-exoskeleton-prototype/tree/maintenance) [Invoice for contratistas](https://github.com/alejandraJA/invoice_contratistas)
+¡Bienvenido/a a mi perfil de GitHub!
 
-- 🌱 I’m currently learning **Compose for Android and Spring Boot Framework**
+## Acerca de mí
+Soy una apasionada desarrolladora de software con amplia experiencia en el desarrollo de aplicaciones móviles y un enfoque especializado en la plataforma Android. Me encanta explorar y utilizar tecnologías modernas para crear aplicaciones innovadoras que mejoren la experiencia del usuario. Soy una profesional comprometida, creativa y siempre estoy en busca de nuevos desafíos y oportunidades para crecer en el campo del desarrollo de software.
 
-- 👯 I’m looking to collaborate on [CHAPAS DE SEGURIDAD TOKEN](https://www.sarmexico.com/productos/)
+## Habilidades técnicas
+- Lenguajes de programación: Java, Kotlin, C#
+- Frameworks: Android SDK, Spring Boot, .NET
+- Arquitectura: MVVM, Clean Architecture
+- Bibliotecas y herramientas: CameraX, Dagger-Hilt, Koin, Retrofit, Room, Firebase, Material Design 2 y 3
+- Bases de datos: MySQL, SQL Server, SQLite
+- Otras tecnologías: ViewModel, RecyclerView, Jetpack, Compose
 
-- 📫 How to reach me **AlejandraJimenezAvalos@hotmail.com**
+## Proyectos destacados
+- **Aplicación para Contratistas**: Una aplicación en desarrollo que está diseñada para ayudar a los contratistas en la gestión de presupuestos, seguimiento de inventario y facturación. Estoy utilizando tecnologías como Android Studio, Java, Retrofit, MVVM y Clean Architecture para su desarrollo. También estoy trabajando en llevar el desarrollo de la aplicación a Compose Desktop para crear una versión de escritorio. Puedes encontrar los repositorios correspondientes en GitHub: [Aplicación para contratistas](https://github.com/alejandraJA/Invoice_Contratistas) y [Aplicación para contratistas Desktop](https://github.com/alejandraJA/invoice_desktop).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandraja&show_icons=true&locale=en" alt="alejandraja" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandraja&show_icons=true&locale=en&layout=compact" alt="alejandraja" />
-</p>
+## Certificaciones
+- Diseño de Productos - UDACITY
+- Diseño de Experiencia de Usuario (UX) para Desarrolladores Móviles - UDACITY
+- Optimización de Rendimiento en Android - UDACITY
+- Desarrollo Avanzado de Aplicaciones Android - UDACITY
 
-<h3 align="left">Connect with me:</h3>
-<p >
-  <a href="https://linkedin.com/in/alejandra-jimenez-avalos" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandra-jimenez-avalos" height="30" width="40" /></a>
-  <a href="https://fb.com/alejandrajimenezavalosalek" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandrajimenezavalosalek" height="30" width="40" /></a>
-  <a href="https://instagram.com/alek_j_a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alek_j_a" height="30" width="40" /></a>
-</p>
+## Idiomas
+- Español: Nivel nativo
+- Inglés: Nivel Basico
 
-<h3 align="left">Languages and Tools:</h3>
-<p> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-</p>
+## Proyectos personales
+- **Prototipo de Exoesqueleto**: Durante mi formación, trabajé en un proyecto de titulación que consistió en la elaboración de un prototipo de caminadora de exoesqueleto y arnés que simula la marcha humana de forma biomecánica y es controlado mediante una aplicación móvil. Este proyecto me permitió aplicar mis conocimientos en desarrollo de software y trabajar en un proyecto multidisciplinario. Utilicé herramientas como Android Studio, Firebase, Arduino y establecí una comunicación basada en un servicio Bluetooth.
+
+## Contacto
+- Correo electrónico: [Correo de contacto](alejandrajimenezavalos@hotmail.com)
+
+¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes alguna pregunta o si estás interesado/a en colaborar en proyectos emocionantes relacionados con el desarrollo de software.
+
+# AlejandraJA
+
+Welcome to my GitHub profile!
+
+## About Me
+I am a passionate software developer with extensive experience in mobile app development, specializing in the Android platform. I love exploring and using modern technologies to create innovative applications that enhance the user experience. I am a committed and creative professional, always seeking new challenges and opportunities to grow in the field of software development.
+
+## Technical Skills
+- Programming Languages: Java, Kotlin, C#
+- Frameworks: Android SDK, Spring Boot, .NET
+- Architecture: MVVM, Clean Architecture
+- Libraries and Tools: CameraX, Dagger-Hilt, Koin, Retrofit, Room, Firebase, Material Design 2 and 3
+- Databases: MySQL, SQL Server, SQLite
+- Other Technologies: ViewModel, RecyclerView, Jetpack, Compose
+
+## Featured Projects
+- **Contractor App**: An ongoing application designed to assist contractors in budget management, inventory tracking, and invoicing. I am utilizing technologies such as Android Studio, Java, Retrofit, MVVM, and Clean Architecture for its development. I am also working on bringing the application development to Compose Desktop to create a desktop version. You can find the corresponding repositories on GitHub: [Contractor App](https://github.com/alejandraJA/Invoice_Contratistas) and [Contractor App Desktop](https://github.com/alejandraJA/invoice_desktop).
+
+## Certifications
+- Product Design - UDACITY
+- User Experience (UX) Design for Mobile Developers - UDACITY
+- Android Performance Optimization - UDACITY
+- Advanced Android App Development - UDACITY
+
+## Languages
+- Spanish: Native
+- English: Basic
+
+## Personal Projects
+- **Exoskeleton Prototype**: During my education, I worked on a graduation project that involved developing a prototype exoskeleton treadmill and harness that simulates human gait biomechanically and is controlled through a mobile application. This project allowed me to apply my software development knowledge and work in a multidisciplinary project. I used tools such as Android Studio, Firebase, Arduino, and established communication based on a Bluetooth service.
+
+## Contact
+- Email: [Contact Email](alejandrajimenezavalos@hotmail.com)
+
+Thank you for visiting my GitHub profile! Feel free to contact me if you have any questions or if you are interested in collaborating on exciting software development projects.
